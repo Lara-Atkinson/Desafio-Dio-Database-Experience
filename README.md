@@ -32,4 +32,4 @@ Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados 
 	
 	*Dados ou tipo de armazenamento, como imagem, vídeo... 
 	
-	*O banco permite trabalhar sem esquema de dados rígidos, permite fazer armazenamento de dados não estruturados, e estruturas totalmente diferentes, dependendo do contexto precisa escolher um banco de dados não relacional certo para o que será feito.
+	*O banco permite trabalhar sem esquema de dados rígidos, permite fazer armazenamento de dados não estruturados e estruturas totalmente diferentes, dependendo do contexto precisa escolher um banco de dados não relacional certo para o que será feito.
