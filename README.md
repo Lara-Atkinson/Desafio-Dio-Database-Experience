@@ -8,7 +8,9 @@ Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados 
 
 ###	O que é o SQL?
 	
-	*É o banco de dados  onde se predente armazenar informações que tenha relacionamento entre si.Relacionar essas informações sem criar muitoas duplicidades, criar uma consistência.
+	*É o banco de dados  onde se predente armazenar informações que tenha relacionamento entre si.
+	
+	*Relacionar essas informações sem criar muitoas duplicidades, criar uma consistência.
 	
 	*Exemplo: esquema e-commerce: armazenar entidades de clientes, produtos...
 	
