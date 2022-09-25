@@ -24,7 +24,7 @@ Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados 
 	
 	*Não é substituto do SQL, e sim, uma alternativa a ele. 
 	
-	*Contar com capacidades adicionais dos SQL davam.
+	*Contar com capacidades adicionais que o SQL fornece.
 	
 	*Escabilidade horizontal, armazenar o volume cada vez maior de informações. 
 	
@@ -32,4 +32,4 @@ Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados 
 	
 	*Dados ou tipo de armazenamento, como imagem, vídeo... 
 	
-	*E banco permite trabalhar sem esquema de dados rígidos, peermite fazer armazenamento de dados não estruturados, e estruturas totalmente diferentes, dependendo do contexto precisa escolher um banco de dados não relacional certo para o que será feito.
+	*O banco permite trabalhar sem esquema de dados rígidos, permite fazer armazenamento de dados não estruturados, e estruturas totalmente diferentes, dependendo do contexto precisa escolher um banco de dados não relacional certo para o que será feito.
